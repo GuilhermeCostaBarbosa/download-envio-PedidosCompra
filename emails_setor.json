@@ -1,0 +1,12 @@
+{
+    "NUTRIÇÃO": [
+        "nutricao@empresa.com",
+        "responsavel@empresa.com"
+    ],
+    "MANUTENÇÃO": [
+        "manutencao@empresa.com"
+    ],
+    "CENTRO CIRÚRGICO": [
+        "centrocirurgico@empresa.com"
+    ]
+}
